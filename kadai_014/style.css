@@ -10,7 +10,6 @@ body{
       font-style: normal;
     }
 
-    <style>
     :root {
         font-size: 20px;
     }
@@ -22,20 +21,14 @@ body{
          border-bottom: 3px solid rgb(115, 115, 114);
     }
 
- #child p{
+ #parent p{
     font-weight:bold;
 }
-
-#grandchild p{
-    font-weight:bold;
-}
-
 
     .skyblue-text {
             color: skyblue;
         }
 
-        /* Pをピンクにするスタイル */
         .pink-text {
             color: rgb(255, 192, 203);
         }
