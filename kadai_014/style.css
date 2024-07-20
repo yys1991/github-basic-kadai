@@ -1,0 +1,52 @@
+body{
+    font-family:"Arial", "Meiryo", sans-serif;
+    text-align: center;
+}
+
+.google-fonts{
+    
+      font-family: "Josefin Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 400;
+      font-style: normal;
+    }
+
+    <style>
+    :root {
+        font-size: 20px;
+    }
+
+    h1 {
+        font-size: 2em;
+        letter-spacing: calc(0.2em * 1.2);
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+    }
+
+    .skyblue-text {
+            color: skyblue;
+        }
+
+        /* Pをピンクにするスタイル */
+        .pink-text {
+            color: rgb(255, 192, 203);
+        }
+
+.text-skyblue{
+    color:skyblue;
+}
+
+.text-pink{
+    color:pink;
+}
+
+.bold-text{
+    font-weight:bold;
+}
+
+h1 {
+    border-bottom: 3px solid rgb(115, 115, 114);
+}
+
+
+</style>
+</body>
