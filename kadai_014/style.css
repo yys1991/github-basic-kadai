@@ -15,8 +15,8 @@ body{
     }
 
     h1 {
-        font-size: calc;(2 * 20px);
-        letter-spacing: calc(0.2em * 1.2);
+        font-size: calc; 40px;
+        letter-spacing: 0.24em;
         text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
          border-bottom: 3px solid rgb(115, 115, 114);
     }
