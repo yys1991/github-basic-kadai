@@ -22,9 +22,14 @@ body{
          border-bottom: 3px solid rgb(115, 115, 114);
     }
 
- #parent p{
+ #child p{
     font-weight:bold;
 }
+
+#grandchild p{
+    font-weight:bold;
+}
+
 
     .skyblue-text {
             color: skyblue;
@@ -44,6 +49,3 @@ body{
 }
 
 
-
-</style>
-</body>
